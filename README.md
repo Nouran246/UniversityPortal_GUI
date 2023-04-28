@@ -2,6 +2,17 @@
 #include<iostream>
 #include<string>
 using namespace std;
+// 2zay n3mel el page el bedaya 5ales el han7ot 3leha el project
+using namespace System;
+using namespace System::Windows::Forms;
+[STAThread]
+void main(array<String^>^args){
+	Application::EnableVisualStyles();
+	Application::SetCompatibleTextRenderingDefault(false);
+	Application::Run(gcnew guidemo::MyForm);
+	
+}
+
 //han3mel partion lel instructor w el user
 //a sample of the instructor schedule
 struct instructor
@@ -27,8 +38,5 @@ int main() {
     cout << uni.day<<endl;
     cout << uni.starttime<<endl;
     cout<<uni.endtime<<endl;
-
-
-
 }
 
