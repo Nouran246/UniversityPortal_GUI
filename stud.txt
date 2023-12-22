@@ -1,0 +1,12 @@
+ID  Name               password            GPA      IR/R
+30  Ahmed Mohamad        3030              3.4        R
+31  Salma Ahmed          3131              2.94       R
+32  Laila Ayman          3232              3.12       R
+33  Ali Ashraf           3333              2.22       R
+34  Yasmeen Ahmed        3434              2.1        R
+35  Mai Eslam            3535              1.9       IR
+36  Raghad Maged         3636              1.73      IR
+37  Malak Khaled         3737              3.6        R
+38  Mohamad Khaled       3838              3.45       R
+39  Inas Taha            3939              3.3        R
+40  Mariam El Nahas      4040              3.8        R

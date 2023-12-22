@@ -1,0 +1,9 @@
+Subject                                 Code             pre-requisite         credit
+Data Structures & Algorithms            SWE 210             SWE111               4
+Database Management Systems             INF 230             SWE110               4 
+Object Oriented Programming             SWE 211             SWE111               4
+Computer Organization                   CSC 220             CSC120               3
+Algorithms Analysis & Design            SWE 212             SWE210               4
+Operating Systems                       CSC 210               -                  4
+Computer Networks                       CSC 230               -                  4
+Web Development                         SWE 230             SWE211               4

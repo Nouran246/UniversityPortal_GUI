@@ -1,0 +1,7 @@
+Subject                                        Code           Pre-Requiste     credit
+Artificial Intelligence                        CSC340           SWE 111          3
+Statistical Analysis                           BAS331           BAS 131          3
+Image Processing                               CSC360           SWE 111          4
+Software Engineering                           SWE320           SWE 211          4
+Software Project Management                    SWE321             -              3             Machine Learning                               CSC341             -              3
+Theory of Computation & Compiler Design        CSC311           SWE210           4

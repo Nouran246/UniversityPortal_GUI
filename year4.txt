@@ -1,0 +1,5 @@
+Subject                                  Code         pre-requiste      credit
+Network Security                         CSC430         CSC 230           3
+Distributed Systems                      CSC410         CSC 210           4
+Senior Project in Computer Science       CSC491         SWE 320           5
+Mobile device Programming                SWE410         SWE211            3
